@@ -1,2 +1,2 @@
 # PythonProject
-A Python Project on Machine Leaning
+A Python Project on Machine Learning
